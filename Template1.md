@@ -3,18 +3,18 @@
 <p align = right> Edited by</p>
 
 
-## <p align = right>Summary <p align = left>Resource required </p>
-<p align = right>Type text here!</p>
+### <p align = center>Summary <p align = right>Type text here!</p><p align = left>Resource required </p>
+<p align = left>Tips and tricks </p>
 
 
-## <p align = right>Deck of Slides :outbox_tray:
+### <p align = right>Deck of Slides :outbox_tray:
 
 ## <p align = right>Class Actiivity :rocket:
 
 <p align = right>**Name of activity 
 
-<p align = right>Steps | Requirments
-<p align = right>----- | ---- 
+<p align = right>Steps | Requirments<p align = right>----- | ---- 
+
 
 
 
