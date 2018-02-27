@@ -3,8 +3,8 @@
 <p align = right> Edited by</p>
 
 
-## <p align = left>Summary</p>  <p align = right>Resource required</p>
-Type text here!     <p align = right>Resource required</p>
+## <p align = right>Summary <align = left>Resource required </p>
+<p align = right>Type text here!</p>
 
 
 ## Deck of Slides :outbox_tray:
