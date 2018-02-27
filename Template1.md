@@ -3,35 +3,35 @@
 <p align = right> Edited by</p>
 
 
-## <p align = right>Summary <align = left>Resource required </p>
+## <p align = right>Summary <p align = left>Resource required </p>
 <p align = right>Type text here!</p>
 
 
-## Deck of Slides :outbox_tray:
+## <p align = right>Deck of Slides :outbox_tray:
 
-## Class Actiivity :rocket:
+## <p align = right>Class Actiivity :rocket:
 
-**Name of activity 
+<p align = right>**Name of activity 
 
-Steps | Requirments
------ | ---- 
+<p align = right>Steps | Requirments
+<p align = right>----- | ---- 
 
 
 
-## Design Project activity
+## <p align = right>Design Project activity
 
-Steps | Requirments
------ | ---- 
+<p align = right>Steps | Requirments
+----- | ---- </p>
 
-## Example 
-Add Image
+## <p align = right>Example 
+<p align = right>Add Image
 
-## Reading material for further study
-Add Url
-or Refrence material
+## <p align = right>Reading material for further study
+<p align = right>Add Url
+<p align = right>or Refrence material
 
-## Homework
+## <p align = right>Homework
 
-## Short in-Class quiz
-## Exam Questions 
-## Video
+## <p align = right>Short in-Class quiz
+## <p align = right>Exam Questions 
+## <p align = right>Video
