@@ -23,10 +23,8 @@ Steps | Requirments
 <p align = center> Steps | Requirments
 ----- | ---- </p>
 
-## <p align = center>Example <p align = center>![](_fisheye_EmpireStatebuilding.jpg)
 
-  
-  
+## <p align = center>Example <p align = center>![](_fisheye_EmpireStatebuilding.jpg)
 
 ## <p align = center>Reading material for further study<p align = center>[Add link name](Paste url here!)<p align = center>or Refrence material
 
