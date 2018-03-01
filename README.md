@@ -1,26 +1,23 @@
-# <p align = center> Personas </p>
-<p align = right> By khushbu</p>
-<p align = right> edited by coco </p>
+## How to use dropbox for file uploading 
 
+Step 1. Click on the given link to **upload file** (Even if you dont have Dropbox account)
 
-## Summary
-A description of a character that the product will be designed for represents the needs of larger groups of users, in terms of their motivations, expectations and goals 
+Link : https://www.dropbox.com/request/IGGEpJb9HeBAoWNew2PM
 
-Persona is An archetype, a stereotype, …Fictitious but real
-## Deck of Slides :rocket:
+Step 2. Upload File /Choose file from existing dropbox account
 
-## Class Actiivity
+Step 3. Fill in the information required
 
-| khkh: | hgg :|
-| .... | ... |
-|how|
+Step 4. Submit
 
+Step 5. Click on the given link to **view** file (Even if you dont have Dropbox account)
 
-## Design Project activity
-## Example 
-Image !{}
-## Reading material for further study
-## HOmework
-## Short in-Class quiz
-## Exsm Questions 
-## Video
+Link : https://www.dropbox.com/sh/gpqajy2krhgovi6/AACJbL6TlS1FwVnwn8kelCV6a?dl=0
+
+Step 6. Right click and get the link of the file
+
+Step 7. Add it in your Module as 
+
+![](paste the link)(add dropbox converter instructions)
+
+Step 8. Commit changes (can preview also before commiting) 
