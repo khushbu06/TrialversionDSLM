@@ -28,7 +28,7 @@ Steps | Requirments
 
 ## <p align = center>Example 
 ![Image Name](https://www.dropbox.com/s/iytdl63bcj7xp13/IMG_20161021_182335.jpg?dl=0)
-
+![Image Name](Screen Shot 2018-01-09 at 8.47.38 PM.png)
   
   
 
