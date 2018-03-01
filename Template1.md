@@ -3,7 +3,9 @@
 <p align = right> Edited by</p>
 
 
-### <p align = center>Summary <p align = right>Type text here!</p><p align = left>Resource required </p>
+### <p align = center>Summary 
+<p align = right>Type text here!</p>
+<p align = left>Resource required </p>
 <p align = left>Tips and tricks </p>
 
 
