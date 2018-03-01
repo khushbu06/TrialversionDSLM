@@ -12,9 +12,6 @@
 ### <p align = center>Deck of Slides :outbox_tray:
 
 ## <p align = center>Class Actiivity :rocket:
-
-
-
 Steps | Requirments
 ----- | ---- 
 
@@ -26,23 +23,17 @@ Steps | Requirments
 <p align = center> Steps | Requirments
 ----- | ---- </p>
 
-## <p align = center>Example 
-![Image Name](https://www.dropbox.com/s/iytdl63bcj7xp13/IMG_20161021_182335.jpg?dl=0)
-![Image Name](Screen Shot 2018-01-09 at 8.47.38 PM.png)
-  
-  
 
-## <p align = center>Reading material for further study
-<p align = center>[Add link name](Paste url here!)
-<p align = center>or Refrence material
+## <p align = center>Example <p align = center>![](_fisheye_EmpireStatebuilding.jpg)
+
+## <p align = center>Reading material for further study<p align = center>[Add link name](Paste url here!)<p align = center>or Refrence material
 
 ## <p align = center>Homework
 
 ## <p align = center>Short in-Class quiz
 ## <p align = center>Exam Questions 
 ## <p align = center>Video
-## <p align = center>comment
-  <form action="/html/tags/html_form_tag_action.cfm" method="post">
+## <p align = center>comment<form action="/html/tags/html_form_tag_action.cfm" method="post">
 <div>
 <textarea name="comments" id="comments" style="font-family:sans-serif;font-size:1.2em;">
 Hey... say something!
