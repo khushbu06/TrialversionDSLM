@@ -7,20 +7,20 @@
 <p align = left>Tips and tricks </p>
 
 
-### <p align = right>Deck of Slides :outbox_tray:
+### <p align = centre>Deck of Slides :outbox_tray:
 
-## <p align = right>Class Actiivity :rocket:
+## <p align = centre>Class Actiivity :rocket:
 
-<p align = right>**Name of activity 
+<p align = centre>**Name of activity 
 
-<p align = right>Steps | Requirments<p align = right>----- | ---- 
-
-
+<p align = centre>Steps | Requirments<p align = right>----- | ---- 
 
 
-## <p align = right>Design Project activity
 
-<p align = right>Steps | Requirments
+
+## <p align = centre>Design Project activity
+
+<p align = centre> Steps | Requirments
 ----- | ---- </p>
 
 ## <p align = right>Example 
