@@ -16,8 +16,18 @@ Link : https://www.dropbox.com/sh/gpqajy2krhgovi6/AACJbL6TlS1FwVnwn8kelCV6a?dl=0
 
 Step 6. Right click and get the link of the file
 
-Step 7. Add it in your Module as 
+Step 7. you'll have a link like:
 
-![](paste the link)(add dropbox converter instructions)
+https://www.dropbox.com/s/DSLM/iPad%20intro.pdf
 
-Step 8. Commit changes (can preview also before commiting) 
+To get a direct download link, just paste your link into a module and replace the www.dropbox.com with dl.dropboxusercontent.com, which will give you a link like:
+
+https://dl.dropboxusercontent.com/s/DSLM/iPad%20intro.pdf
+
+Now add ![]along with the link
+which will give you
+
+![](https://dl.dropboxusercontent.com/s/DSLM/iPad%20intro.pdf)
+
+Step 8. Commit changes (can preview also before commiting)
+
