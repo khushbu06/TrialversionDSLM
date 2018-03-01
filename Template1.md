@@ -7,31 +7,42 @@
 <p align = left>Tips and tricks </p>
 
 
-### <p align = centre>Deck of Slides :outbox_tray:
+### <p align = center>Deck of Slides :outbox_tray:
 
-## <p align = centre>Class Actiivity :rocket:
+## <p align = center>Class Actiivity :rocket:
 
-<p align = centre>**Name of activity 
-
-<p align = centre>Steps | Requirments<p align = right>----- | ---- 
+<p align = center>**Name of activity 
 
 
+Steps | Requirments
+----- | ---- 
 
 
-## <p align = centre>Design Project activity
 
-<p align = centre> Steps | Requirments
+
+## <p align = center>Design Project activity
+
+<p align = center> Steps | Requirments
 ----- | ---- </p>
 
-## <p align = right>Example 
-<p align = right>Add Image
+## <p align = center>Example 
+<p align = center>Add Image
 
-## <p align = right>Reading material for further study
-<p align = right>Add Url
-<p align = right>or Refrence material
+## <p align = center>Reading material for further study
+<p align = center>Add Url
+<p align = center>or Refrence material
 
-## <p align = right>Homework
+## <p align = center>Homework
 
-## <p align = right>Short in-Class quiz
-## <p align = right>Exam Questions 
-## <p align = right>Video
+## <p align = center>Short in-Class quiz
+## <p align = center>Exam Questions 
+## <p align = center>Video
+## <p align = center>comment
+  <form action="/html/tags/html_form_tag_action.cfm" method="post">
+<div>
+<textarea name="comments" id="comments" style="font-family:sans-serif;font-size:1.2em;">
+Hey... say something!
+</textarea>
+</div>
+<input type="submit" value="Submit">
+</form>
