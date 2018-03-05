@@ -18,16 +18,16 @@ Step 6. Right click and get the link of the file
 
 Step 7. you'll have a link like:
 
-https://www.dropbox.com/s/DSLM/iPad%20intro.pdf
+https://www.dropbox.com/sh/gpqajy2krhgovi6/AAB8qdWdyirXOMgsB3Dwa_y4a/aza%20%20-%20Screen%20Shot%202018-03-05%20at%203.50.58%20PM.png?dl=0
 
 To get a direct download link, just paste your link into a module and replace the www.dropbox.com with dl.dropboxusercontent.com, which will give you a link like:
 
-https://dl.dropboxusercontent.com/s/DSLM/iPad%20intro.pdf
+https://dl.dropboxusercontent.com/sh/gpqajy2krhgovi6/AAB8qdWdyirXOMgsB3Dwa_y4a/aza%20%20-%20Screen%20Shot%202018-03-05%20at%203.50.58%20PM.png?dl=0
 
 Now add ![]along with the link
 which will give you
 
-![](https://dl.dropboxusercontent.com/s/DSLM/iPad%20intro.pdf)
+![](https://dl.dropboxusercontent.com/sh/gpqajy2krhgovi6/AAB8qdWdyirXOMgsB3Dwa_y4a/aza%20%20-%20Screen%20Shot%202018-03-05%20at%203.50.58%20PM.png?dl=0)
 
 Step 8. Commit changes (can preview also before commiting)
 
