@@ -19,7 +19,7 @@ Step 3. Fill in the information required and Upload
 ![](https://dl.dropboxusercontent.com/sh/gpqajy2krhgovi6/AADLVr-vnL5w3_WPXqz_4KOJa/aza%20%20-%20Screen%20Shot%202018-03-05%20at%203.52.02%20PM.png?dl=0)
 
 
-### Part 2 : Add File in GitHub for website
+### Part 2 : Add File in GitHub from dropbox
 
 
 
